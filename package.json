@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "crypto": "^1.0.1",
+    "cryptr": "^4.0.2",
+    "eccrypto": "^1.1.2",
+    "eth-crypto": "^1.5.0",
+    "keccak256": "^1.0.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
